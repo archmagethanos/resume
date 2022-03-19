@@ -86,7 +86,10 @@
   pdftitle={},
   pdfauthor={},
   pdfsubject={},
-  pdfkeywords={}
+  pdfkeywords={}\usepackage{amsmath}
+  \usepackage{amsfonts}
+  \usepackage{amssymb}
+  
 }
 
 
